@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+}
+.container{
+    margin-bottom: 100px;
+}
+.orange-bg{
+    background-color: orange;
+}
+.cat1{
+    background-color: coral;
+}
+.cat2{
+    background-color: darkgoldenrod;
+}
+.cat3{
+    background-color: blue;
+}
+.carousel-item{
+    padding: 20px 20px;
+}
